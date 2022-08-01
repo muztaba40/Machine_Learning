@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dy28wofo@cip7e1.cip.cs.fau.de:22">
+    <serverData>
+      <paths name="dy28wofo@cip7e1.cip.cs.fau.de:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/cip/medtech2020/dy28wofo/ExPytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
